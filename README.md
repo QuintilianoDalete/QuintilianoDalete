@@ -1,3 +1,13 @@
+#### About me
+
+##### I am passionate about the experience of life, guided by enthusiasm and excellence!
+
+##### Performance in leading companies in the international market, performance of leadership activity and technical coordination of projects.
+
+##### Skill in strategic planning and assertive communication in multicultural teams.
+
+##### International professional experience in Australia and Indonesia. 
+
 #### Able to code with
 <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" />
 
