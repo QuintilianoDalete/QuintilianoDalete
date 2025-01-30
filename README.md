@@ -18,4 +18,4 @@ Non-Professional Related:
 Cultural exchange experiences in Australia and Indonesia, expanding intercultural communication and adaptability.
 
 #### Where to find me
-<a href="https://www.linkedin.com/in/quintiliano-dalete-de-oliveira-ferreira-a14a0aa1/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/>
+<a href="https://www.linkedin.com/in/quintilianodalete/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/>
